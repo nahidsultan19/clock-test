@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
--first
--second
--third
+- first
+- second
+- third
 
 In the project directory, you can run:
 
